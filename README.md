@@ -1,1 +1,1 @@
-# restaurante_app
+# SISTEMA DE GESTION DE UN RESTAURANTE
